@@ -1,0 +1,3 @@
+#Herd immunity
+
+Playing around with a model for virus infections, trying to see how diffrent virus strategys affect when herd immunity occurs...
