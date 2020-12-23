@@ -1,0 +1,20 @@
+
+# dependencies
+node_modules
+
+.cache
+
+.DS_Store
+**/dist
+
+# testing
+/coverage
+
+# production
+/build
+
+npm-debug.log*
+
+.idea
+
+*.iml
